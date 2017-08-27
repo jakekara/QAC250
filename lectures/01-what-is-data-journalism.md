@@ -55,7 +55,7 @@ __Journalism employing sophisticated techniques of obtaining, analyizing and pre
 
 May result in:
     
-    * Plain-text story, informed by analysis
-    * Visual components
-    * Interactives
-    * Databases and other "web apps"
+* Plain-text story, informed by analysis
+* Visual components
+* Interactives
+* Databases and other "web apps"
