@@ -8,8 +8,6 @@ Sept. 5, 2017
 
   * FiveThirtyEight
   * Upshot
-  * 
-  *
   *
   * 
 
