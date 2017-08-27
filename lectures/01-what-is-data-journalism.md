@@ -47,11 +47,11 @@ Sept. 5, 2017
 
 #### "Big tent" definition
 
-**Everything, since all journalists use data!**
+__Everything, since all journalists use data!__
 
 #### More useful def'n
 
-**Journalism employing sophisticated techniques of obtaining, analyizing and presenting data**
+__Journalism employing sophisticated techniques of obtaining, analyizing and presenting data__
 
 May result in:
     
