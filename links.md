@@ -10,7 +10,6 @@
 
 #### Data sets
 
-
 #### Analyzing data
 * [OpenVizConfg 2017 - Hadley Wickham - The role of visualization in exploratory data analysis](https://www.youtube.com/watch?v=ZdPNBF6GWBw)
 
