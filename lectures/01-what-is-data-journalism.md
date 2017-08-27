@@ -49,7 +49,7 @@ Sept. 5, 2017
 
 __Everything, since all journalists use data!__
 
-#### More useful def'n
+#### More useful definition
 
 __Journalism employing sophisticated techniques of obtaining, analyizing and presenting data__
 
