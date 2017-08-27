@@ -6,7 +6,8 @@ Sept. 5, 2017
 
 # Examples
 
-  * FiveThirtyEight
+  * [propublica.org/data](https://www.propublica.org/data)
+  * [How popular is Donald Trump? via FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/?ex_cid=rrpromo)
   * Upshot
   *
   * 
