@@ -47,7 +47,7 @@ Sept. 5, 2017
 
 #### "Big tent" definition
 
-_Everything, since all journalists use data!_
+*Everything, since all journalists use data!*
 
 #### More useful definition
 
