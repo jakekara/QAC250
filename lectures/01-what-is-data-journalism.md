@@ -4,11 +4,58 @@ Sept. 5, 2017
 
 # Lecture 1 - What is data journalism?
 
-# Why are you here?
+# What is journalism?
 
-# What do you want to get out of this class?
+  Accurate, newsworthy storytelling.
 
-# What do you think about data journalism?
+# The process of journalism
+
+  * Gathering the facts
+  * Telling story
+
+# Gathering the facts
+
+  * Interviews
+  * Observation
+  * Documents
+  * Data -- obtaining, and analyzing
+
+# Storytelling
+
+  * Writing
+  * Recording
+  * Broadcast
+  * Photography
+  * Videography
+  * Animation
+  * Illustration
+  * Visualization
+  * Web development
+  
+  * Editing
+  * Copy editing
+
+# Data journalism
+
+  Journalism that considers data a source.
+
+  Practices:
+
+	* Statistics
+	* Mapping
+	* Visualization
+	* Programming
+
+# History of data journalism
+
+  
+
+# What's different?
+
+  * Everyone has the Internet in their pocket
+  * Sophisticated, free tools
+  * Ability to produce, consume, analyze, present more data than ever
+  * Data is everywhere"
 
 # Examples
 
@@ -21,9 +68,6 @@ Sept. 5, 2017
   * [NYTimes: Thousands cried for help... NYT](https://www.nytimes.com/interactive/2017/08/30/us/houston-flood-rescue-cries-for-help.html)
   * [VIDEO: The age of insight](https://www.youtube.com/watch?v=TA_tNh0LMEs)
   * [Viz - how much is a limb worth?](https://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)
-
-# Data
-  * [Data: CT Fire Incidents](https://data.ct.gov/Public-Safety/Connecticut-Fire-Department-Incidents-2012-2015-/qem9-rt8k)
 
 # What is journalism?
 
@@ -71,3 +115,6 @@ May result in:
 * Visual components
 * Interactives
 * Databases and other "web apps"
+
+# Data
+  * [Data: CT Fire Incidents](https://data.ct.gov/Public-Safety/Connecticut-Fire-Department-Incidents-2012-2015-/qem9-rt8k)
