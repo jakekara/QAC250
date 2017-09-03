@@ -6,7 +6,7 @@ Sept. 5, 2017
 
 # What is journalism?
 
-  Accurate, newsworthy storytelling.
+Accurate, newsworthy storytelling.
 
 # The process of journalism
 
@@ -37,20 +37,20 @@ Sept. 5, 2017
 
 # Data journalism
 
-  Journalism that considers data a source.
+Journalism that considers data a source.
 
-  Practices:
-
-	* Statistics
-	* Mapping
-	* Visualization
-	* Programming
+Most "new media" -- animation, illustrations -- fall on the "data"
+people. Larger newsrooms may have separate "graphics" or "visuals" people.
 
 # History of data journalism
 
-  
+Traditional Data-heavy beats:
 
-# What's different?
+  * Business
+  * Politics/polling
+  * Sports
+  
+# What's different now?
 
   * Everyone has the Internet in their pocket
   * Sophisticated, free tools

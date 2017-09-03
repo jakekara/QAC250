@@ -20,3 +20,11 @@
 #### Visualizing data
 * [OpenVizConf 2017 - Data Sketches - A viz a month](https://www.youtube.com/watch?time_continue=7&v=4EOG7KwFspk)
 
+#### Reading
+
+Hate crime data:
+* Story 1
+* Story 2
+* Story 3
+* [IRE Radio - Hate, on the record](https://itunes.apple.com/us/podcast/ire-radio-podcast/id900544465?mt=2#)
+
