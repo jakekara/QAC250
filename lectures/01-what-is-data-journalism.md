@@ -4,13 +4,26 @@ Sept. 5, 2017
 
 # Lecture 1 - What is data journalism?
 
+# Why are you here?
+
+# What do you want to get out of this class?
+
+# What do you think about data journalism?
+
 # Examples
 
+  * [VIDEO: FiveThirtyEight's R workflow](https://www.youtube.com/watch?v=1LujBaF1-4Y)
   * [propublica.org/data](https://www.propublica.org/data)
-  * [How popular is Donald Trump? via FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/?ex_cid=rrpromo)
+  * [How popular is Donald Trump? via FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/)
   * Upshot
-  *
-  * 
+  * FiveThirtyEight
+  * [VIDEO: Data Journalists are the New Punks](https://www.youtube.com/watch?v=h2zbvmXskSE)
+  * [NYTimes: Thousands cried for help... NYT](https://www.nytimes.com/interactive/2017/08/30/us/houston-flood-rescue-cries-for-help.html)
+  * [VIDEO: The age of insight](https://www.youtube.com/watch?v=TA_tNh0LMEs)
+  * [Viz - how much is a limb worth?](https://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)
+
+# Data
+  * [Data: CT Fire Incidents](https://data.ct.gov/Public-Safety/Connecticut-Fire-Department-Incidents-2012-2015-/qem9-rt8k)
 
 # What is journalism?
 
