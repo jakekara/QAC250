@@ -4,9 +4,13 @@ Sept. 5, 2017
 
 # Lecture 1 - What is data journalism?
 
-# What is journalism?
+# Bio stuff
 
-Accurate, newsworthy storytelling.
+  * [occupation.trendct.org](http://occupation.trendct.org/)
+  * [Traffic Stops database](http://trafficstops.trendct.org/data/)
+  * [In Connecticut, a formula helps make bail decisions](https://trendct.org/2017/02/22/in-connecticut-a-formula-helps-make-bail-decisions/)
+  * [Bailing out](https://projects.ctmirror.org/content/trend/2017/02/pretrial-outflow/)
+  * Compare that with [this flow chart](https://www.documentcloud.org/documents/3455625-Pretrial-Release-and-Detention-in-CT-2-6-2017.html#document/p26)
 
 # The process of journalism
 
@@ -44,8 +48,11 @@ people. Larger newsrooms may have separate "graphics" or "visuals" people.
 
 # History of data journalism
 
+Early computer analysis
+
 Traditional Data-heavy beats:
 
+  * Weather
   * Business
   * Politics/polling
   * Sports
