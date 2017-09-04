@@ -51,7 +51,7 @@ people. Larger newsrooms may have separate "graphics" or "visuals" people.
 
 # History of data journalism
 
-Early computer analysis
+<iframe src="https://www.npr.org/player/embed/163951263/164011440" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
 Traditional Data-heavy beats:
 
@@ -134,3 +134,6 @@ May result in:
 # Links
 * [The AP Stylebook now includes new guidelines on data](http://www.niemanlab.org/2017/05/the-ap-stylebook-now-includes-new-guidelines-on-data-requesting-it-scraping-it-reporting-on-it-and-publishing-it/)
 * [AP: Data journalism chapter debuts in 2017 AP Stylebook](https://www.ap.org/press-releases/2017/data-journalism-chapter-debuts-in-2017-ap-stylebook)
+* [NPR: The night a computer predicted the next president](http://www.npr.org/sections/alltechconsidered/2012/10/31/163951263/the-night-a-computer-predicted-the-next-president)
+* [Weather reporting as beat journalism](https://www.poynter.org/news/weather-reporting-beat-journalism)
+
