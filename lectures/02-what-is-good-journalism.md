@@ -11,3 +11,6 @@ Sept. 12, 2017
 # Storytelling
 
 
+# Links
+* [VIDEO - The 5 principles of ethical journalism](http://ethicaljournalismnetwork.org/who-we-are/5-principles-of-journalism)
+* [Missouri j school - 10 tenets of journalism](https://journalism.missouri.edu/jan-2012/journalism-basics.html)

@@ -69,15 +69,17 @@ Traditional Data-heavy beats:
 
 # Examples
 
-  * [VIDEO: FiveThirtyEight's R workflow](https://www.youtube.com/watch?v=1LujBaF1-4Y)
+  * [TWEET: AP, How hot could the earth get...](https://twitter.com/APHealthScience/status/868440188334297088) and [story](https://apnews.com/a96d26f80df141ecb7d4851bb3ae6f48)
+
   * [propublica.org/data](https://www.propublica.org/data)
   * [How popular is Donald Trump? via FiveThirtyEight](https://projects.fivethirtyeight.com/trump-approval-ratings/)
-  * Upshot
-  * FiveThirtyEight
-  * [VIDEO: Data Journalists are the New Punks](https://www.youtube.com/watch?v=h2zbvmXskSE)
   * [NYTimes: Thousands cried for help... NYT](https://www.nytimes.com/interactive/2017/08/30/us/houston-flood-rescue-cries-for-help.html)
-  * [VIDEO: The age of insight](https://www.youtube.com/watch?v=TA_tNh0LMEs)
   * [Viz - how much is a limb worth?](https://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)
+
+# Video 
+  * [VIDEO: FiveThirtyEight's R workflow](https://www.youtube.com/watch?v=1LujBaF1-4Y)
+  * [VIDEO: Data Journalists are the New Punks](https://www.youtube.com/watch?v=h2zbvmXskSE)
+  * [VIDEO: The age of insight](https://www.youtube.com/watch?v=TA_tNh0LMEs)
 
 # What is journalism?
 
@@ -128,3 +130,7 @@ May result in:
 
 # Data
   * [Data: CT Fire Incidents](https://data.ct.gov/Public-Safety/Connecticut-Fire-Department-Incidents-2012-2015-/qem9-rt8k)
+
+# Links
+* [The AP Stylebook now includes new guidelines on data](http://www.niemanlab.org/2017/05/the-ap-stylebook-now-includes-new-guidelines-on-data-requesting-it-scraping-it-reporting-on-it-and-publishing-it/)
+* [AP: Data journalism chapter debuts in 2017 AP Stylebook](https://www.ap.org/press-releases/2017/data-journalism-chapter-debuts-in-2017-ap-stylebook)
