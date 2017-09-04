@@ -6,11 +6,11 @@ Sept. 5, 2017
 
 # Bio stuff
 
+  * [Bailing out](https://projects.ctmirror.org/content/trend/2017/02/pretrial-outflow/) (compare that with [this flow chart](https://www.documentcloud.org/documents/3455625-Pretrial-Release-and-Detention-in-CT-2-6-2017.html#document/p26))
+  * [In Connecticut, a formula helps make bail decisions](https://trendct.org/2017/02/22/in-connecticut-a-formula-helps-make-bail-decisions/)  
   * [occupation.trendct.org](http://occupation.trendct.org/)
   * [Traffic Stops database](http://trafficstops.trendct.org/data/)
-  * [In Connecticut, a formula helps make bail decisions](https://trendct.org/2017/02/22/in-connecticut-a-formula-helps-make-bail-decisions/)
-  * [Bailing out](https://projects.ctmirror.org/content/trend/2017/02/pretrial-outflow/)
-  * Compare that with [this flow chart](https://www.documentcloud.org/documents/3455625-Pretrial-Release-and-Detention-in-CT-2-6-2017.html#document/p26)
+  * [Report: Medicaid expansion states, led by CT, reduce per-person costs](https://trendct.org/2017/07/27/report-medicaid-expansion-states-led-by-ct-reduce-per-person-costs/)
 
 # The process of journalism
 
@@ -35,11 +35,14 @@ Sept. 5, 2017
   * Illustration
   * Visualization
   * Web development
-  
   * Editing
   * Copy editing
 
-# Data journalism
+# Data journalism practices
+
+* Obtaining and/or
+* Interviewing and/or
+* Visualizing
 
 Journalism that considers data a source.
 
