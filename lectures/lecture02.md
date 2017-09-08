@@ -18,15 +18,15 @@ _It's like academic writing, but interesting._
 
 # The process of journalism
 
-### Your notes are evidence
+### Your notes are important records, and your self defense
 ### Start out with a question
 ### Gather and verify facts
-### Working with and evaluating sources 
+### Working with and evaluating sources
+### Negative findings? Report those too
 
 # News writing
 
 ### It's all in the lead
-
 ### Your story will be cut from the bottom
 
 # Links
@@ -40,7 +40,6 @@ _It's like academic writing, but interesting._
 * [Cub Reporters.org - How to write good story leads](http://cubreporters.org/leads.html)
 * [Oxford Univ. Press - Lead writing exercises](https://global.oup.com/us/companion.websites/9780199846412/student/chapter8/exercise/exercise3/)
 * [Purdue OWL - How to Write a Lead](https://owl.english.purdue.edu/owl/resource/735/05/)
-
 
 # Reading
 * [American Press Institute - The elements of Journalism](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/elements-journalism/)
