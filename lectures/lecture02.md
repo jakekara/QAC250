@@ -20,7 +20,7 @@ _It's like academic writing, but interesting._
 
 ### Start out with a question
 
-### Gathering and verifying facts
+### Gather and verify facts
 
 ### Working with sources
 
@@ -28,7 +28,7 @@ _It's like academic writing, but interesting._
 
 ### It's all in the lead
 
-### Cut from the bottom
+### Your story will be cut from the bottom
 
 # Links
 * [VIDEO - Walter Cronkite on Journalism](https://www.youtube.com/watch?v=tlYIC6MU4-s)
