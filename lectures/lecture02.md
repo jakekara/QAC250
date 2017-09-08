@@ -4,6 +4,8 @@ Sept. 12, 2017
 
 # Lecture 2 - What is good journalism?
 
+_It's like academic writing, but interesting._
+
 ### Good journalism is:
 
 * Accurate
@@ -13,8 +15,6 @@ Sept. 12, 2017
 * Precise
 * Engaging
 * Transparent
-
-### Good journalism is like academic writing, but interesting
 
 # The process of journalism
 
