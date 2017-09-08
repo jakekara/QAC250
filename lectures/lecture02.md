@@ -6,23 +6,22 @@ Sept. 12, 2017
 
 _It's like academic writing, but interesting._
 
-### Good journalism is:
+# Good journalism is
 
-* Accurate
-* Verified
-* Compelling
-* Independent
-* Precise
-* Engaging
-* Transparent
+### Accurate
+### Verified
+### Compelling
+### Independent
+### Precise
+### Engaging
+### Transparent 
 
 # The process of journalism
 
+### Your notes are evidence
 ### Start out with a question
-
 ### Gather and verify facts
-
-### Working with sources
+### Working with and evaluating sources 
 
 # News writing
 
