@@ -37,6 +37,11 @@ _It's like academic writing, but interesting._
 * [VIDEO - Last week today - Journalism](https://www.youtube.com/watch?v=bq2_wSsDwkQ)
 * [Missouri j school - 10 tenets of journalism](https://journalism.missouri.edu/jan-2012/journalism-basics.html)
 * [Poynter - If your mother tells you she loves you...](https://www.poynter.org/news/if-your-mother-says-she-loves-you-reporters-cautionary-tale)
+* [It’s Time To Ditch The Concept Of ‘100-Year Floods’](https://fivethirtyeight.com/features/its-time-to-ditch-the-concept-of-100-year-floods/)
+* [Cub Reporters.org - How to write good story leads](http://cubreporters.org/leads.html)
+* [Oxford Univ. Press - Lead writing exercises](https://global.oup.com/us/companion.websites/9780199846412/student/chapter8/exercise/exercise3/)
+* [Purdue OWL - How to Write a Lead](https://owl.english.purdue.edu/owl/resource/735/05/)
+
 
 # Reading
 * [American Press Institute - The elements of Journalism](https://www.americanpressinstitute.org/journalism-essentials/what-is-journalism/elements-journalism/)
@@ -44,3 +49,4 @@ _It's like academic writing, but interesting._
 * [The Times Uses Forensic Mapping to Verify a Syrian Chemical Attack](https://www.nytimes.com/2017/05/01/insider/the-times-uses-forensic-mapping-to-verify-a-syrian-chemical-attack.html)
 * [U.S. Hate Crimes Surge 6%, Fueled by Attacks on Muslims](https://www.nytimes.com/2016/11/15/us/politics/fbi-hate-crimes-muslims.html)
 * [FBI Press Release: Latest Hate Crime Statistics Released](https://www.fbi.gov/news/stories/2015-hate-crime-statistics-released)
+* [FBI Hate Crimes Data Declaration](https://ucr.fbi.gov/hate-crime/2015/tables-and-data-declarations/12tabledatadecpdf/table_12_agency_hate_crime_reporting_by_state_2015.xls/@@template-layout-view?override-view=data-declaration)
