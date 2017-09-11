@@ -30,6 +30,7 @@ _It's like academic writing, but interesting._
 ### Your story will be cut from the bottom
 
 # Links
+* [NWS Report on Harvey](http://www.weather.gov/crp/hurricane_harvey)
 * [VIDEO - Walter Cronkite on Journalism](https://www.youtube.com/watch?v=tlYIC6MU4-s)
 * [AUDIO - Civil Rights Era Almost Split CBS News Operation](http://www.npr.org/templates/story/story.php?storyId=4672765)
 * [VIDEO - The 5 principles of ethical journalism](http://ethicaljournalismnetwork.org/who-we-are/5-principles-of-journalism)
