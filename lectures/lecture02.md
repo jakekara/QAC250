@@ -30,6 +30,8 @@ _It's like academic writing, but interesting._
 ### Your story will be cut from the bottom
 
 # Links
+* [VIDEO - Tips from Bob Woodward](https://www.youtube.com/watch?v=VVKGUctuoXE)
+* [VIDEO - AP How to do watchdog journalism](https://www.youtube.com/watch?v=Sxf90TXThY8)
 * [Poynter - Best Pulitzer leads](https://www.poynter.org/news/and-winner-best-pulitzer-prize-lead-2017)
 * [NWS Report on Harvey](http://www.weather.gov/crp/hurricane_harvey)
 * [VIDEO - Walter Cronkite on Journalism](https://www.youtube.com/watch?v=tlYIC6MU4-s)
