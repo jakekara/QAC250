@@ -30,7 +30,7 @@ _It's like academic writing, but interesting._
 ### Your story will be cut from the bottom
 
 # Links
-* [Poynter - Best Pulitzer leads]](https://www.poynter.org/news/and-winner-best-pulitzer-prize-lead-2017)
+* [Poynter - Best Pulitzer leads](https://www.poynter.org/news/and-winner-best-pulitzer-prize-lead-2017)
 * [NWS Report on Harvey](http://www.weather.gov/crp/hurricane_harvey)
 * [VIDEO - Walter Cronkite on Journalism](https://www.youtube.com/watch?v=tlYIC6MU4-s)
 * [AUDIO - Civil Rights Era Almost Split CBS News Operation](http://www.npr.org/templates/story/story.php?storyId=4672765)
