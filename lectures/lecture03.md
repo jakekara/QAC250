@@ -6,6 +6,8 @@ Sept. 19, 2017
 
 _The structure of this lecture borrows heavily from the first link, to [Bill Park's Basic Newswriting write-up](http://www.ohlone.edu/people/bparks/docs/basicnewswriting.pdf). I am using it with Bill's blessing._
 
+# Reference story: [Read this](https://www.washingtonpost.com/local/public-safety/crack-found-in-hull-of-sunken-dc-fire-boat/2017/09/15/930c70ec-9a48-11e7-82e4-f1076f6d6152_story.html)
+
 # ABCs: Accuracy, Brevity, Clarity
 
 # Gatekeeper role
