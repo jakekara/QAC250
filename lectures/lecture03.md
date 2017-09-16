@@ -72,7 +72,7 @@ Bad: "When asked about his presidential plans," Quayle said he "won't run."
 
 # Exercise - Writing against a deadline
 
-Choose a brief press release from the [FBI newsroom](https://www.fbi.gov/news/pressrel), such as [this one](Police reports - https://www.justice.gov/usao-ct/pr/shelton-man-admits-robbing-4-connecticut-banks). It should be short in order to finish the exercise in time.
+Choose a brief press release from the [FBI newsroom](https://www.fbi.gov/news/pressrel), such as [this one](https://www.justice.gov/usao-ct/pr/shelton-man-admits-robbing-4-connecticut-banks). It should be short in order to finish the exercise in time.
 
 This is the kind of press release that hits newsrooms big and small and unless they had a scoop -- advanced knowledge before their competition -- they will be scrambling to publish a story. 
 
