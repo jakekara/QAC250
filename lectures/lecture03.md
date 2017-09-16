@@ -6,7 +6,7 @@ Sept. 19, 2017
 
 _The structure of this lecture borrows heavily from the first link, to [Bill Park's Basic Newswriting write-up](http://www.ohlone.edu/people/bparks/docs/basicnewswriting.pdf). I am using it with Bill's blessing._
 
-# Reference story: [Read this](https://www.washingtonpost.com/local/public-safety/crack-found-in-hull-of-sunken-dc-fire-boat/2017/09/15/930c70ec-9a48-11e7-82e4-f1076f6d6152_story.html)
+# [Read this story](https://www.washingtonpost.com/local/public-safety/crack-found-in-hull-of-sunken-dc-fire-boat/2017/09/15/930c70ec-9a48-11e7-82e4-f1076f6d6152_story.html)
 
 # ABCs: Accuracy, Brevity, Clarity
 
@@ -78,11 +78,20 @@ This is the kind of press release that hits newsrooms big and small and unless t
 
 Read the release and write a news story based on it, following the principles discussed in class. You might have follow-up questions, but for this exercise you won't be seeking answers. That doesn't excuse you from writing a fair and accurate story. Write it as if none of your sources called you back before your editor demanded a finished story. Think about how you could make the story better if you had more time.
 
-# Links
+# Links used in class
 * [Ohlone College - Basic Newswriting](http://www.ohlone.edu/people/bparks/docs/basicnewswriting.pdf)
 * [Police chief urges newspaper not to publish arrest logs](http://www.seattletimes.com/business/police-chief-urges-newspaper-not-to-publish-arrest-logs/)
 * [DATA - Hartford police incidents, 2005 to present](https://data.hartford.gov/Public-Safety/Police-Incidents-01012005-to-Current/889t-nwfu)
 * [DATA - Harford Police Crime Statistics](http://www.hartford.gov/police/crime-statistics/2017-crime-statistics)
 * [DATA - Hartford Police Arrest Log](http://www.hartford.gov/images/police/ArrestLogs/blotter.pdf)
+* [Al Gore’s New Movie Exposes The Big Flaw In Online Movie Ratings](https://fivethirtyeight.com/features/al-gores-new-movie-exposes-the-big-flaw-in-online-movie-ratings/)
+* [Github repo for Al Gore’s New Movie Exposes The Big Flaw In Online Movie Ratings](https://github.com/fivethirtyeight/data/tree/master/inconvenient-sequel)
+* [How ‘Qi’ And ‘Za’ Changed Scrabble](https://fivethirtyeight.com/features/how-qi-and-za-changed-scrabble/)
+* [Github repo for How ‘Qi’ And ‘Za’ Changed Scrabble](https://github.com/fivethirtyeight/data/tree/master/scrabble-games)
+* [VIDEO - Visualization in Exploratory Data Analysis - Hadley Wickham ]( https://www.youtube.com/watch?v=ZdPNBF6GWBw )
 
-# Reading
+# Reading assignments
+* [Marriage isn't dead -- yet](https://fivethirtyeight.com/features/marriage-isnt-dead-yet/)
+* [Data for Marriage isn't dead -- yet](https://fivethirtyeight.com/features/marriage-isnt-dead-yet/)
+* [How a warm winter destroyed 85 percent of Georgia's peaches](https://fivethirtyeight.com/features/how-a-warm-winter-destroyed-85-percent-of-georgias-peaches/)
+
