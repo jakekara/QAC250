@@ -79,6 +79,8 @@ This is the kind of press release that hits newsrooms big and small and unless t
 Read the release and write a news story based on it, following the principles discussed in class. You might have follow-up questions, but for this exercise you won't be seeking answers. That doesn't excuse you from writing a fair and accurate story. Write it as if none of your sources called you back before your editor demanded a finished story. Think about how you could make the story better if you had more time.
 
 # Links used in class
+* [Public attitudes toward Iraq War](http://www.pewresearch.org/2008/03/19/public-attitudes-toward-the-war-in-iraq-20032008/)
+* [NPR Audio - NYT critiques its Iraq coverage](http://www.npr.org/templates/story/story.php?storyId=1911120)
 * [Police chief urges newspaper not to publish arrest logs](http://www.seattletimes.com/business/police-chief-urges-newspaper-not-to-publish-arrest-logs/)
 * [DATA - Hartford police incidents, 2005 to present](https://data.hartford.gov/Public-Safety/Police-Incidents-01012005-to-Current/889t-nwfu)
 * [DATA - Harford Police Crime Statistics](http://www.hartford.gov/police/crime-statistics/2017-crime-statistics)
@@ -93,4 +95,5 @@ Read the release and write a news story based on it, following the principles di
 * [Marriage isn't dead -- yet](https://fivethirtyeight.com/features/marriage-isnt-dead-yet/)
 * [Data for Marriage isn't dead -- yet](https://fivethirtyeight.com/features/marriage-isnt-dead-yet/)
 * [How a warm winter destroyed 85 percent of Georgia's peaches](https://fivethirtyeight.com/features/how-a-warm-winter-destroyed-85-percent-of-georgias-peaches/)
+* [Data for How a warm winter destroyed 85 percent of Georgia's peaches](https://github.com/jakekara/peach-materials-fivethirtyeight)
 * [Ohlone College, Bill Park - Basic Newswriting](http://www.ohlone.edu/people/bparks/docs/basicnewswriting.pdf)
