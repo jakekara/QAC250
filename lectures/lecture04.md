@@ -104,18 +104,45 @@ _Modify these to suit your communication style_
 * Writing will expose the gaps in your knowledge, and questions you forgot to ask or clarify
 * Mention during interview you might need to follow up
 
-# Links for class discussion
-
-* [VIDEO - how to interview almost anyone](https://www.youtube.com/watch?v=WDOQBPYEaNs)
+# Links
 * [VIDEO - In coal country, putting faith in Trump's economic promises](http://www.pbs.org/newshour/bb/coal-country-putting-faith-trumps-economic-promises/)
 * [AP style: Quotation in the news](http://writingexplained.org/ap-style/ap-style-quotes)
 * [AP's guidelines for off the record, etc](http://blog.chrislkeller.com/aps-guidelines-for-off-the-record-background/)
+* [VIDEO - how to interview almost anyone](https://www.youtube.com/watch?v=WDOQBPYEaNs)
 * [VIDEO - BBC Journalism Skills: Interviews](https://www.youtube.com/watch?v=dHUn6zSGEJ8)
 * [VIDEO - Katie Couric on interviewing](https://www.youtube.com/watch?v=4eOynrI2eTM)
-* [VIDEO - Interviewing for journalists: Asking the right questions](https://www.youtube.com/watch?v=fHrxyKujU5g)
+* [VIDEO - Interviewing for journalists: Asking the right questions](https://www.youtube.com/watch?v=fHrxyKujU5g
+* [AUDIO - Story Corps: I applied to NASA four times](https://storycorps.me/interviews/i-applied-to-nasa-four-times/)
 
-Exchange contact information in case you have follow-up questions when you
-go home and write.
+# In-class exercise and homework
+
+
+This will be a partnered exercise. You will have 20 minutes in class to interview each other -- spending 10-15 minutes as the interviewer and then 10-15 minutes as the subject. The homework portion will be writing up your interview as a brief, Story Corps-style vignette no longer than one page.
+
+Pair up with someone you don't already know and introduce yourself. Find
+out some basic biographical information about them such as their full name
+(that means correct spelling, too), their age, where they're from, their
+major.
+
+Next, pick a question to ask them for a Story Corps-like vignette. You can
+find question ideas
+[here](https://storycorps.me/question-generator/?view=best-questions), or
+come up with your own. Below are a few from the Story Corps site that might
+lead to good responses.
+
+1. Tell me about your parents. What was your life like growing up?
+2. How would you describe yourself to someone who has never met you?
+3. What is something you are passionate about?
+4. What advice would you give to your teenage self?
+5. Of the people you’ve lost in your life, who do you miss the most? What is it about them that you miss?
+6. Can you tell me one of your happiest memories?
+
+
+If they have trouble opening up, it's your job to help them get
+started. Listen to their response carefully and ask questions show you are
+engaged. Find details in their story and ask them to elaborate.
+
+Exchange contact information in case you have follow-up questions when you go home and write.
 
 __What to turn in:__ Write the story up, using rich, accurate quotes, in no
 more than a page. I will be looking to see that you listened carefully and
