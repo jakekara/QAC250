@@ -39,6 +39,7 @@ Oct. 3, 2017
   * [Making better inferences from statistical graphics](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003wa)
   * [Goldberg and Design Variations](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00041L)
   * [ET WORK ON SPARKLINES](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=000AIr)
+  * [Tufte in R](http://motioninsocial.com/tufte/)
 
 # Reading homework
 
