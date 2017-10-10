@@ -44,6 +44,38 @@ __Example 2__ From [Washington Post](https://www.washingtonpost.com/news/post-na
 	  injuring numerous others, and torching more than 2,000 homes and
 	  businesses.
 
+__Example 3__: From Catcher in the Rye, chapter 5
+
+   Instead of,
+
+   	   I sat around busying myself with various things while he got
+   	   ready, which took a long time.
+
+   Salinger writes,
+
+   	    It took him about five hours to get ready. While he was doing
+   	    it, I went over to my window and opened it and packed a
+   	    snowball with my bare hands. The snow was very good for
+   	    packing. I didn't throw it at anything, though. I started to
+   	    throw it at a car that was parked across the street. But I
+   	    changed my mind. The car looked so nice and white. Then I
+   	    started to throw it at a hydrant, but that looked too nice and
+   	    white, too. Finally I didn't throw it at anything. All I did
+   	    was close the window and walk around the room with the
+   	    snowball, packing it harder. A little while later, I still had
+   	    it with me when I and Brossard and Ackley got on the bus. The
+   	    bus driver opened the doors and made me throw it out. I told
+   	    him I wasn't going to chuck it at anybody, but he wouldn't
+   	    believe me. People never believe you.
+
+   Salinger's words accomplish more than filling in the timeline of
+   Holden's evening, they offer insight into his thoughts and feelings all
+   through evidence. In this case, the "facts" include both the details of
+   his account, but how he tells it. He starts the paragraph with a lie and
+   then says no one believes "you," meaning him. The entire paragraph
+   serves as a fact on its own, evidence that he is a so-called "unreliable
+   narrator."
+
 __In practice__ consider each sentence presents facts or adds necessary
 framing. If not, cut it.
 
