@@ -9,6 +9,10 @@ Oct. 10, 2017
 * Questioning data
 * Interview progress
 
+### Writing versus editing
+
+* [The jerk store called] - https://www.youtube.com/watch?v=LOetkFopHK0
+
 ### Write with facts
 
 __Example 1__ From ["Telling Writing", Ken Macrorie](https://www.amazon.com/Telling-Writing-Ken-Macrorie/dp/0867091533?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=ad-backfill-amzn-one-good-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0867091533):
