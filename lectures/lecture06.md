@@ -46,12 +46,12 @@ __Example 2__ From [Washington Post](https://www.washingtonpost.com/news/post-na
 
 __Example 3__: From Catcher in the Rye, chapter 5
 
-   Instead of,
+    Instead of,
 
    	   I sat around busying myself with various things while he got
    	   ready, which took a long time.
 
-   Salinger writes,
+    Salinger writes,
 
    	    It took him about five hours to get ready. While he was doing
    	    it, I went over to my window and opened it and packed a
