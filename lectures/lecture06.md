@@ -1,6 +1,6 @@
 Introduction to Data Journalism
 
-Jake Kara, jake@jakekara.com
+Jake Kara, jkara@wesleyan.edu
 
 Oct. 10, 2017
 
