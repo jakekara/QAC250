@@ -102,10 +102,33 @@ not part of the whole" -Aristotle
 
 ### Quick editing improvements
 
-* Avoid overuse of the verb "to be" and your writing will ~~be more active~~ jump off the page
+* Avoid overuse of the verb "to be" and your writing will ~~be more
+  active~~ jump off the page
+
+_Example_ from [writingcommons.org](https://writingcommons.org/process/edit/101-eliminate-to-be-verbs)
+
+	  Sample: While it is crucial for us to speak out on behalf of
+	  education, it is important that we do so in a manner consistent
+	  with statute and administrative rules.
+
+	  Revision: We need to speak out on behalf of education while
+	  observing statute and administrative rules.
+
+	  Sample: According to the certification theory, there is no
+	  intrinsic relation between creativity and IQ.
+
+	  Revision: Certification theory posits no intrinsic relation
+	  between creativity and IQ.
+
 * Eliminate adverbs when a stronger verb will do
 
 ### Sparklines 
 
 * Economical
 * Densley packed information
+
+### Reading homework
+
+* [Tapping Local Data to Fight Drug Overdoses: Part I, Know Your
+  Epidemic](http://datasmart.ash.harvard.edu/news/article/tapping-local-data-to-fight-drug-overdoses-1094)
+* [Tapping Local Data to Fight Drug Overdoses: Part II, Dispatch Your Own Data](http://datasmart.ash.harvard.edu/news/article/tapping-local-data-to-fight-drug-overdoses-part-ii-dispatch-your-own-data-1)
