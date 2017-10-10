@@ -11,7 +11,7 @@ Oct. 10, 2017
 
 # Write with facts
 
-From ["Telling Writing", Ken Macrorie](https://www.amazon.com/Telling-Writing-Ken-Macrorie/dp/0867091533?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=ad-backfill-amzn-one-good-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0867091533):
+__Example 1__ From ["Telling Writing", Ken Macrorie](https://www.amazon.com/Telling-Writing-Ken-Macrorie/dp/0867091533?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=ad-backfill-amzn-one-good-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0867091533):
 
      Instead of saying,
 
@@ -29,13 +29,28 @@ From ["Telling Writing", Ken Macrorie](https://www.amazon.com/Telling-Writing-Ke
     Instead of trying to express how great, how small, how wonderful, how
     sad something is, establish its size or intensity with facts.
 
+__Example 2__ From [Washington Post](https://www.washingtonpost.com/news/post-nation/wp/2017/10/09/fast-moving-wildfires-ravage-northern-californias-wine-country/?hpid=hp_hp-top-table-main_no-name%3Ahomepage%2Fstory&utm_term=.1ef3dd08229a)
+
+    Instead of,
+
+    	  Fires devastated Northern California Monday, causing deaths,
+    	  injuring many, and damaging property.
+
+    you don't need to make the value judgment that the fires were
+    "devastating" if you can describe their effects with facts:
+
+	  Fires pushed by warm winds and fueled by dry ground swept through
+	  California wine country Monday, killing at least 10 people,
+	  injuring numerous others, and torching more than 2,000 homes and
+	  businesses.
+
 __In practice__ consider each sentence presents facts or adds necessary
 framing. If not, cut it.
 
 # Cliches, exaggeration and other canned language
 
 * "Needless to say"
-* "Everyone would be surprised to know
+* "Everyone is fascinated by motorcycles"
 * "Nothing compares with" such and such a hardship
 * He spent two years as a camp counselor and "doesn't regret a minute of it"
 * He is "about to embark on a new adventure in the real world"
