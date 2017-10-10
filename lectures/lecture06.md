@@ -11,7 +11,7 @@ Oct. 10, 2017
 
 # Write with facts
 
-From "Telling Writing":
+From ["Telling Writing", Ken Macrorie](https://www.amazon.com/Telling-Writing-Ken-Macrorie/dp/0867091533?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=ad-backfill-amzn-one-good-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0867091533):
 
      Instead of saying,
 
