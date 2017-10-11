@@ -105,7 +105,7 @@ not part of the whole" -Aristotle
 * Avoid overuse of the verb "to be" and your writing will ~~be more
   active~~ jump off the page
 
-_Example_ from [writingcommons.org](https://writingcommons.org/process/edit/101-eliminate-to-be-verbs)
+__Example__ from [writingcommons.org](https://writingcommons.org/process/edit/101-eliminate-to-be-verbs)
 
 	  Sample: While it is crucial for us to speak out on behalf of
 	  education, it is important that we do so in a manner consistent
