@@ -1,12 +1,14 @@
-Introduction to Data Journalism
+Introduction to Data Journalism 
 
-Jake Kara, jkara@wesleyan.edu
+Jake Kara, jkara@wesleyan.edu 
 
 Oct. 30, 2017
 
 # Lead (or "lede") writing revisited
 
-1. Short 2. Sets up expectations 3. Sets stylistic tone of the story
+1. Short
+2. Sets up expectations 
+3. Sets stylistic tone of the story
 
 ### 1
 
@@ -104,7 +106,20 @@ treatments and deaths be simultaneously increasing?
 
 [img](img)
 
-# Story ideas
+# Newsroom exercise
+
+Get together and choose a topic you want to explore, such as baseball or
+car crashes. 
+
+Brainstorm a list of questions. 
+
+For each question, brainstorm the types of data and human sources that
+could help answer this question. 
+
+Divide up the labor and come up with as much information as you can about
+the topic by the end of class. 
+
+### Newsworthiness refresher
 
 * Impact
 * Proximity
@@ -113,4 +128,5 @@ treatments and deaths be simultaneously increasing?
 * Novelty
 * Conflict
 * Relevance
-* Usefulness Human interest
+* Usefulness
+* Human interest
