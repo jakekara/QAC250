@@ -106,18 +106,23 @@ treatments and deaths be simultaneously increasing?
 
 [img](img)
 
-# Newsroom exercise
+# Newsroom exercise: Pitching a story
 
-Get together and choose a topic you want to explore, such as baseball or
+Get together in groups and come with a story pitch, including a topic and
+specific questions you want to answer, and a plan for finding out the
+answers.
+
+1. Get together and choose a topic you want to explore, such as baseball or
 car crashes. 
 
-Brainstorm a list of questions. 
+2. Brainstorm a list of questions, such as, are baseball players paid
+fairly, are car safety features reducing the number of crashes?
 
-For each question, brainstorm the types of data and human sources that
-could help answer this question. 
+3. For each question, brainstorm the types of data and human sources that
+you would need to answer the question. 
 
-Divide up the labor and come up with as much information as you can about
-the topic by the end of class. 
+4. Divide up the labor and come up with as much information as you can
+about the topic by the end of class. Be ready to share what you found.
 
 ### Newsworthiness refresher
 
