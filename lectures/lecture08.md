@@ -32,7 +32,8 @@ jkara@wesleyan.edu
 
 ### Reading homework &#x1F4DA; 
 
-* Skim: [https://en.wikipedia.org/wiki/Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
-* Read: [https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/](https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/]
+* Skim: [Robots Exclusion Standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+* Read: [Web scraping and data journalism](https://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/]
+* Read: [Reuters: Reporting and Writing Basics](http://handbook.reuters.com/index.php?title=Reporting_and_Writing_Basics&oldid=2805)
     
 
