@@ -17,7 +17,7 @@ jkara@wesleyan.edu
 
 ### What you want to see more of &#x1F52C;
 
-### Final exam handout &#1F4C3;
+### Final exam handout &#x1F4C3;
 
 ### Data sources &#x1F4E1;
 
