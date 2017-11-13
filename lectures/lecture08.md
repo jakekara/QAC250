@@ -12,8 +12,9 @@ jkara@wesleyan.edu
 
 ### Midterm: Don't &#x1F631;
 
-**The midterm is an assessment of where you are.** The final is a chance to
-  improve on those trouble areas.
+**The midterm is an assessment of where you are.** One data point does not
+  tell the whole story. Now that we know what we can improve upn, the final
+  is a chance to do so.
 
 ### What you want to see more of &#x1F52C;
 
